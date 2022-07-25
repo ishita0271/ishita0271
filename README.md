@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishita0271
-- 👀 I’m interested in ML /Data Science /Data Analytics.
-- 🌱 I’m currently learning more about ML and making dashboards.
-- 💞️ I’m looking to collaborate on ML projects.
+- 👀 I am a FrontEnd Developer.
+- 🌱 I’m currently learning more about Backend and improving on FrontEnd.
+- 💞️ I’m looking to collaborate on FullStack projects.
 - 📫 How to reach me ishita426@gmail.com
 
 <!---
